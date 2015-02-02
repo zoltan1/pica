@@ -1,0 +1,29 @@
+Hello Guys and Thank you for downloading Windows 7 Professional 32-Bit virtualbox virtal machine.
+
+This Windows 7 Professional 32-Bit OS will incloud some Softwares and Internet Browsers. 
+
+It incloud Browsers are Google Chrome and Mozilla Firefox for some user that use Mozille Firefox.And now Mozille Firefox is now much faster then Google Chrome.
+
+I will incloud softwares in Document Folder Microsoft Office Professional Plus 2010 32-Bit (Not installed), 7-Zip, Vlc Media Player (Not Installed) and more softwares .exe. 
+
+The Specs of this Virtual Mechine: 
+
+OS: Windows 7 Professional 32-Bit SP1
+RAM: 2.45GB
+In order to use this OS you have to install virtualbox.
+
+In this Windows 7 I have disable some services and the services that I have disable is Print Spooler, Security Center, Application Experience, Diagnostic Policy Service, Windows Update service, Windows Color System, Windows Search, Windows Defender, Windows Firewall, Windows Media Player Network Sharing. 
+I have disable this services because the Windows 7 it was slow and not resonding, also Bed Performance. 
+Now After this services has bin disable the Windows 7 has working much better and given much better Performance. 
+
+This is a Freash Copy of Windows 7 Professional Installed on this Vitual Hard Disk. This is a Original Windows 7 Professional Copy.
+
+Please be advice that this Virtual OS will work on better computer. If you have old computer this OS will be slow and take time resonse!!
+
+Please SEED!!
+
+If you have any problem with this virtual Machine and or any report or anything PLEASE Contact me at@: sohammistry95@yahoo.in 
+In the Subject area type report or Virtual Machine Feedback or report. 
+
+THANK YOU,
+
